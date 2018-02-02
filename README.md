@@ -23,7 +23,6 @@ Check requirements by running:
 
 > ng -v
 
-
 ## Development server
 
 Run `ng serve` for a dev server. 
